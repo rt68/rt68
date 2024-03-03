@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm always eager to learn new things and explore innovative technologies.
+My favorite fruit is mangosteen
+My emoji collection:
+🐷🐹🐮	🐄🐂🐭🐼💐🍀🌺🍄🌰🎓💾💻👑👜🍼
+🍱🍛🍣🍙🍚🍥🍜🍲🍢 🍡🍨🎂🍈
 <!--
 **rt68/rt68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
