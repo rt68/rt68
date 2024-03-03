@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm always eager to learn new things and explore innovative technologies.
-My favorite fruit is mangosteen
-My emoji collection:
+
+
+### My emoji collection:
 🐷🐹🐮	🐄🐂🐭🐼💐🍀🌺🍄🌰🎓💾💻👑👜🍼
 🍱🍛🍣🍙🍚🍥🍜🍲🍢 🍡🍨🎂🍈
 <!--
